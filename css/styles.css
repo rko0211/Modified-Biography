@@ -1,0 +1,27 @@
+
+body{
+  background-color: lightgoldenrodyellow;
+  font-style:oblique;
+
+}
+ #myname{
+    text-align: right;
+}
+ strong{
+  background-color: lightblue;
+ }
+
+ .myclass
+ {
+  width: 50vw;
+  font-style: oblique;
+ }
+ .myclass li{
+  margin-top: 5px;
+ }
+ .mytable{
+  text-align: center;
+ }
+ .myclass2{
+  margin-top: 6px;
+ }
